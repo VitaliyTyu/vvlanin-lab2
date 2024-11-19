@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "title": "The Dark Knight",
+      "genres": ["Action", "Drama"],
+      "directors": ["Christopher Nolan"],
+      "composers": ["Hans Zimmer", "James Newton Howard"],
+      "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine", "Maggie Gyllenhaal"],
+      "releaseDate": "2008-07-18",
+      "boxOffice": 1004558444,
+      "ageRating": "PG-13",
+      "viewers": 150000000,
+      "originalLanguage": "English"
+    },
+    {
+      "title": "Inception",
+      "genres": ["Sci-Fi", "Thriller"],
+      "directors": ["Christopher Nolan"],
+      "composers": ["Hans Zimmer"],
+      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page", "Tom Hardy", "Ken Watanabe", "Cillian Murphy"],
+      "releaseDate": "2010-07-16",
+      "boxOffice": 836848102,
+      "ageRating": "PG-13",
+      "viewers": 120000000,
+      "originalLanguage": "English"
+    },
+    {
+      "title": "Pulp Fiction",
+      "genres": ["Crime", "Drama"],
+      "directors": ["Quentin Tarantino"],
+      "composers": ["Various Artists"],
+      "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Bruce Willis", "Ving Rhames"],
+      "releaseDate": "1994-10-14",
+      "boxOffice": 213928762,
+      "ageRating": "R",
+      "viewers": 25000000,
+      "originalLanguage": "English"
+    },
+    {
+      "title": "Parasite",
+      "genres": ["Drama", "Thriller"],
+      "directors": ["Bong Joon-ho"],
+      "composers": ["Jung Jae-il"],
+      "cast": ["Song Kang-ho", "Choi Woo-shik", "Park So-dam", "Lee Sun-kyun", "Cho Yeo-jeong"],
+      "releaseDate": "2019-05-30",
+      "boxOffice": 263741717,
+      "ageRating": "R",
+      "viewers": 30000000,
+      "originalLanguage": "Korean"
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "genres": ["Comedy", "Drama"],
+      "directors": ["Wes Anderson"],
+      "composers": ["Alexandre Desplat"],
+      "cast": ["Ralph Fiennes", "Tony Revolori", "Adrien Brody", "Willem Dafoe", "Saoirse Ronan"],
+      "releaseDate": "2014-02-06",
+      "boxOffice": 173082316,
+      "ageRating": "R",
+      "viewers": 20000000,
+      "originalLanguage": "English"
+    }
+  ]
+}

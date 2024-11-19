@@ -1,0 +1,25 @@
+
+            Title: The Dark Knight, Release Date: 2008-07-18
+            Genres: Action; Drama; 
+            Directors: Christopher Nolan; 
+            Box Office: $1004558444
+
+            Title: Inception, Release Date: 2010-07-16
+            Genres: Sci-Fi; Thriller; 
+            Directors: Christopher Nolan; 
+            Box Office: $836848102
+
+            Title: Pulp Fiction, Release Date: 1994-10-14
+            Genres: Crime; Drama; 
+            Directors: Quentin Tarantino; 
+            Box Office: $213928762
+
+            Title: Parasite, Release Date: 2019-05-30
+            Genres: Drama; Thriller; 
+            Directors: Bong Joon-ho; 
+            Box Office: $263741717
+
+            Title: The Grand Budapest Hotel, Release Date: 2014-02-06
+            Genres: Comedy; Drama; 
+            Directors: Wes Anderson; 
+            Box Office: $173082316

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies [
+<!ELEMENT movies (movie+)>
+<!ELEMENT movie (title, genres, directors, composers, cast, releaseDate, boxOffice, ageRating, viewers, originalLanguage)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genres (genre+)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT directors (director+)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT composers (composer+)>
+<!ELEMENT composer (#PCDATA)>
+<!ELEMENT cast (actor+)>
+<!ELEMENT actor (#PCDATA)>
+<!ELEMENT releaseDate (#PCDATA)>
+<!ELEMENT boxOffice (#PCDATA)>
+<!ELEMENT ageRating (#PCDATA)>
+<!ELEMENT viewers (#PCDATA)>
+<!ELEMENT originalLanguage (#PCDATA)>
+]>
+<movies>
+    <movie>
+        <title>The Dark Knight</title>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director>Christopher Nolan</director>
+        </directors>
+        <composers>
+            <composer>Hans Zimmer</composer>
+            <composer>James Newton Howard</composer>
+        </composers>
+        <cast>
+            <actor>Christian Bale</actor>
+            <actor>Heath Ledger</actor>
+            <actor>Aaron Eckhart</actor>
+            <actor>Michael Caine</actor>
+            <actor>Maggie Gyllenhaal</actor>
+        </cast>
+        <releaseDate>2008-07-18</releaseDate>
+        <boxOffice>1004558444</boxOffice>
+        <ageRating>PG-13</ageRating>
+        <viewers>150000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+    <movie>
+        <title>Inception</title>
+        <genres>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director>Christopher Nolan</director>
+        </directors>
+        <composers>
+            <composer>Hans Zimmer</composer>
+        </composers>
+        <cast>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Joseph Gordon-Levitt</actor>
+            <actor>Elliot Page</actor>
+            <actor>Tom Hardy</actor>
+            <actor>Ken Watanabe</actor>
+            <actor>Cillian Murphy</actor>
+        </cast>
+        <releaseDate>2010-07-16</releaseDate>
+        <boxOffice>836848102</boxOffice>
+        <ageRating>PG-13</ageRating>
+        <viewers>120000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+    <movie>
+        <title>Pulp Fiction</title>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director>Quentin Tarantino</director>
+        </directors>
+        <composers>
+            <composer>Various Artists</composer>
+        </composers>
+        <cast>
+            <actor>John Travolta</actor>
+            <actor>Samuel L. Jackson</actor>
+            <actor>Uma Thurman</actor>
+            <actor>Bruce Willis</actor>
+            <actor>Ving Rhames</actor>
+        </cast>
+        <releaseDate>1994-10-14</releaseDate>
+        <boxOffice>213928762</boxOffice>
+        <ageRating>R</ageRating>
+        <viewers>25000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+    <movie>
+        <title>Parasite</title>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director>Bong Joon-ho</director>
+        </directors>
+        <composers>
+            <composer>Jung Jae-il</composer>
+        </composers>
+        <cast>
+            <actor>Song Kang-ho</actor>
+            <actor>Choi Woo-shik</actor>
+            <actor>Park So-dam</actor>
+            <actor>Lee Sun-kyun</actor>
+            <actor>Cho Yeo-jeong</actor>
+        </cast>
+        <releaseDate>2019-05-30</releaseDate>
+        <boxOffice>263741717</boxOffice>
+        <ageRating>R</ageRating>
+        <viewers>30000000</viewers>
+        <originalLanguage>Korean</originalLanguage>
+    </movie>
+    <movie>
+        <title>The Grand Budapest Hotel</title>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director>Wes Anderson</director>
+        </directors>
+        <composers>
+            <composer>Alexandre Desplat</composer>
+        </composers>
+        <cast>
+            <actor>Ralph Fiennes</actor>
+            <actor>Tony Revolori</actor>
+            <actor>Adrien Brody</actor>
+            <actor>Willem Dafoe</actor>
+            <actor>Saoirse Ronan</actor>
+        </cast>
+        <releaseDate>2014-02-06</releaseDate>
+        <boxOffice>173082316</boxOffice>
+        <ageRating>R</ageRating>
+        <viewers>20000000</viewers>
+        <originalLanguage>English</originalLanguage>
+    </movie>
+</movies>

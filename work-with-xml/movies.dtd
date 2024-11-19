@@ -1,0 +1,18 @@
+<!DOCTYPE movies [
+<!ELEMENT movies (movie+)>
+<!ELEMENT movie (title, genres, directors, composers, cast, releaseDate, boxOffice, ageRating, viewers, originalLanguage)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genres (genre+)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT directors (director+)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT composers (composer+)>
+<!ELEMENT composer (#PCDATA)>
+<!ELEMENT cast (actor+)>
+<!ELEMENT actor (#PCDATA)>
+<!ELEMENT releaseDate (#PCDATA)>
+<!ELEMENT boxOffice (#PCDATA)>
+<!ELEMENT ageRating (#PCDATA)>
+<!ELEMENT viewers (#PCDATA)>
+<!ELEMENT originalLanguage (#PCDATA)>
+]>
